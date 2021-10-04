@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-echo "HELLO"
+echo "HI"
 echo "###################"
 echo "######TEST#########"
 echo "###################"
