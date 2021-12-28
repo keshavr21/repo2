@@ -6,3 +6,5 @@ shell
 git
 scm
 HELLO
+WHICH
+LINUX
